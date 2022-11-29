@@ -1,0 +1,17 @@
+ul {
+    list-style: none;
+    list-style-type: none;
+}
+
+.card {
+    margin: 0 auto;
+    margin-top: 5%;
+}
+
+input {
+    margin: 1% ;
+}
+
+.is-hidden {
+    display: none;
+}
